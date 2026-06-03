@@ -39,10 +39,12 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate metrics card
-        if: ${{ secrets.METRICS_TOKEN != '' }}
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        if: ${{ env.METRICS_TOKEN != '' }}
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ env.METRICS_TOKEN }}
           user: ${{ github.repository_owner }}
           template: classic
           base: header, activity, community, repositories, metadata
