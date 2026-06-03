@@ -26,7 +26,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&title_color=0969da&icon_color=0969da&text_color=24292f&bg_color=ffffff
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&bg_color=0d1117
           path: output/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -34,9 +34,25 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&title_color=0969da&text_color=24292f&bg_color=ffffff
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117
           path: output/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate metrics card
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        if: ${{ env.METRICS_TOKEN != '' }}
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ env.METRICS_TOKEN }}
+          user: ${{ github.repository_owner }}
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Shanghai
+          config_display: large
+          plugin_repositories: yes
+          plugin_repositories_featured: yz1128/yz1128
+          filename: output/metrics.svg
 
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3

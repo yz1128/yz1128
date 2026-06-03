@@ -47,10 +47,13 @@
 
 ## 📊 GitHub 统计
 
-<div align="center" style="background-color:#000000;padding:14px;border-radius:10px;">
+<p align="center">
   <img height="165" src="https://raw.githubusercontent.com/yz1128/yz1128/output/stats.svg" alt="Yanz GitHub Stats" />
   <img height="165" src="https://raw.githubusercontent.com/yz1128/yz1128/output/top-langs.svg" alt="Top Languages" />
-</div>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yz1128/yz1128/output/metrics.svg" alt="Yanz GitHub Metrics" />
+</p>
 
 ## 🐍 GitHub 贡献
 
