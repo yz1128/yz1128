@@ -42,7 +42,7 @@ jobs:
         env:
           METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
         if: ${{ env.METRICS_TOKEN != '' }}
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ env.METRICS_TOKEN }}
           user: ${{ github.repository_owner }}
