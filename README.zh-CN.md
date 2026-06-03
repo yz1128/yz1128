@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7C3AED&center=true&vCenter=true&width=460&lines=你好，我是+Yanz;欢迎来到我的主页！" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=30&pause=1000&color=7C3AED&center=true&vCenter=true&width=620&lines=你好，我是+Yanz;欢迎来到我的主页！" alt="Typing SVG">
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yz1128&label=访问量&color=7c3aed&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=yz1128&label=%E8%AE%BF%E9%97%AE%E9%87%8F&color=7c3aed&style=flat" alt="Profile Views" />
 </p>
 <p align="center">
   <a href="./README.md">English</a> | <a href="./README.zh-CN.md">简体中文</a>
