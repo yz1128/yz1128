@@ -5,6 +5,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yz1128&label=访问量&color=7c3aed&style=flat" alt="Profile Views" />
 </p>
+<p align="center">
+  <a href="./README.md">English</a> | <a href="./README.zh-CN.md">简体中文</a>
+</p>
 
 <h2 align="center">
   💪 行动胜于雄辩
@@ -78,16 +81,6 @@
 - 🛠️ 打造实用的开发工具
 - 📚 分享技术知识与实践经验
 - 🤝 与社区共建有价值的项目
-
----
-
-## 🔗 联系我
-
-<p align="center">
-  <a href="https://github.com/yz1128" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
 
 ---
 
