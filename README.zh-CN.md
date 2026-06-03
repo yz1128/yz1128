@@ -1,31 +1,31 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7C3AED&center=true&vCenter=true&width=460&lines=Hi,+I'm+Yanz;Welcome+to+my+profile!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7C3AED&center=true&vCenter=true&width=460&lines=你好，我是+Yanz;欢迎来到我的主页！" alt="Typing SVG">
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yz1128&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=yz1128&label=访问量&color=7c3aed&style=flat" alt="Profile Views" />
 </p>
 
 <h2 align="center">
-  💪 Actions Speak Louder Than Words
+  💪 行动胜于雄辩
 </h2>
 
 <p align="center">
-  <strong>Python · Java · AI Coding Tools</strong><br>
-  <strong>Currently Exploring: OpenClaw, Hermes, Claude Code, Codex</strong>
+  <strong>Python · Java · AI 编程工具</strong><br>
+  <strong>当前探索：OpenClaw、Hermes、Claude Code、Codex</strong>
 </p>
 
 ---
 
-## 👋 About Me
+## 👋 关于我
 
-- 🎯 Focused on full-stack development
-- 🐍 Python developer
-- ☕ Java technology stack
-- 🤖 Exploring AI coding tools and code generation workflows
-- 🚀 Action-driven mindset with a strong bias for learning by building
+- 🎯 专注于全栈开发
+- 🐍 Python 开发者
+- ☕ Java 技术栈
+- 🤖 正在探索 AI 编程工具与代码生成工作流
+- 🚀 强调执行力，通过实践持续成长
 
-## 🛠️ Tech Stack
+## 🛠️ 技术栈
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-5B21B6?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -33,23 +33,23 @@
   <img src="https://img.shields.io/badge/AI_Tools-9333EA?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools" />
 </p>
 
-## 🔧 Currently Exploring
+## 🔧 当前探索
 
-- **OpenClaw** - Open code generation toolkit
-- **Hermes** - Intelligent programming assistant
-- **Claude Code** - AI-assisted coding workflow
-- **Codex** - Code generation model
+- **OpenClaw** - 开放代码生成工具
+- **Hermes** - 智能编程助手
+- **Claude Code** - AI 辅助编程工作流
+- **Codex** - 代码生成模型
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub 统计
 
 <div align="center" style="background-color:#000000;padding:14px;border-radius:10px;">
   <img height="165" src="https://raw.githubusercontent.com/yz1128/yz1128/output/stats.svg" alt="Yanz GitHub Stats" />
   <img height="165" src="https://raw.githubusercontent.com/yz1128/yz1128/output/top-langs.svg" alt="Top Languages" />
 </div>
 
-## 🐍 GitHub Contribution
+## 🐍 GitHub 贡献
 
 <p align="center">
   <picture>
@@ -61,27 +61,27 @@
 
 ---
 
-## 🎯 My Philosophy
+## 🎯 我的理念
 
-> **Actions Speak Louder Than Words** — It is not about saying more, it is about doing more.
+> **行动胜于雄辩** —— 不是说得多，而是做得多。
 
-I believe:
-- ✅ Code speaks louder than words
-- ✅ Practice beats theory
-- ✅ Execution determines success
-
----
-
-## 📈 Looking Forward
-
-- 🔍 Dive deeper into AI code generation technologies
-- 🛠️ Build practical tools for developers
-- 📚 Share technical knowledge and experience
-- 🤝 Collaborate with the community on impactful projects
+我相信：
+- ✅ 代码胜于言语
+- ✅ 实践胜于理论
+- ✅ 执行力决定成败
 
 ---
 
-## 🔗 Connect with Me
+## 📈 未来展望
+
+- 🔍 深入研究 AI 代码生成技术
+- 🛠️ 打造实用的开发工具
+- 📚 分享技术知识与实践经验
+- 🤝 与社区共建有价值的项目
+
+---
+
+## 🔗 联系我
 
 <p align="center">
   <a href="https://github.com/yz1128" target="_blank">
@@ -92,6 +92,6 @@ I believe:
 ---
 
 <p align="center">
-  <i>Last updated: 2026-06-03</i><br>
-  <i>Thanks for visiting!</i>
+  <i>最后更新：2026-06-03</i><br>
+  <i>感谢访问！</i>
 </p>
