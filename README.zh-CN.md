@@ -13,13 +13,6 @@
   💪 行动胜于雄辩
 </h2>
 
-<p align="center">
-  <strong>Python · Java · AI 编程工具</strong><br>
-  <strong>当前探索：OpenClaw、Hermes、Claude Code、Codex</strong>
-</p>
-
----
-
 ## 👋 关于我
 
 - 🎯 专注于全栈开发
@@ -43,7 +36,12 @@
 - **Claude Code** - AI 辅助编程工作流
 - **Codex** - 代码生成模型
 
----
+## 📈 未来展望
+
+- 🔍 深入研究 AI 代码生成技术
+- 🛠️ 打造实用的开发工具
+- 📚 分享技术知识与实践经验
+- 🤝 与社区共建有价值的项目
 
 ## 📊 GitHub 统计
 
@@ -64,28 +62,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yz1128/yz1128/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
----
-
-## 🎯 我的理念
-
-> **行动胜于雄辩** —— 不是说得多，而是做得多。
-
-我相信：
-- ✅ 代码胜于言语
-- ✅ 实践胜于理论
-- ✅ 执行力决定成败
-
----
-
-## 📈 未来展望
-
-- 🔍 深入研究 AI 代码生成技术
-- 🛠️ 打造实用的开发工具
-- 📚 分享技术知识与实践经验
-- 🤝 与社区共建有价值的项目
-
----
 
 <p align="center">
   <i>最后更新：2026-06-03</i><br>
