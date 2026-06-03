@@ -49,9 +49,6 @@
   <img height="165" src="https://raw.githubusercontent.com/yz1128/yz1128/output/stats.svg" alt="Yanz GitHub Stats" />
   <img height="165" src="https://raw.githubusercontent.com/yz1128/yz1128/output/top-langs.svg" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yz1128/yz1128/output/metrics.svg" alt="Yanz GitHub Metrics" />
-</p>
 
 ## 🐍 GitHub 贡献
 
