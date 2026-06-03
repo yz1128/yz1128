@@ -47,10 +47,9 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center" style="background-color:#000000;padding:14px;border-radius:10px;">
-  ![Yanz's GitHub stats](https://github-readme-stats.vercel.app/api?username=yz1128)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yz1128)
-</div>
+![Yanz's GitHub stats](https://github-readme-stats.vercel.app/api?username=yz1128)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yz1128)
+
 
 ## 🐍 GitHub Contribution
 
