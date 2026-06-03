@@ -36,8 +36,6 @@
 - **Claude Code** - AI-assisted coding workflow
 - **Codex** - Code generation model
 
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -59,8 +57,6 @@
   </picture>
 </p>
 
----
-
 ## 🎯 My Philosophy
 
 > **Actions Speak Louder Than Words** — It is not about saying more, it is about doing more.
@@ -70,16 +66,12 @@ I believe:
 - ✅ Practice beats theory
 - ✅ Execution determines success
 
----
-
 ## 📈 Looking Forward
 
 - 🔍 Dive deeper into AI code generation technologies
 - 🛠️ Build practical tools for developers
 - 📚 Share technical knowledge and experience
 - 🤝 Collaborate with the community on impactful projects
-
----
 
 <p align="center">
   <i>Last updated: 2026-06-03</i><br>
