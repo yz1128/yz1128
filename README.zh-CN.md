@@ -21,7 +21,7 @@
 - 🤖 正在探索 AI 编程工具与代码生成工作流
 - 🚀 强调执行力，通过实践持续成长
 
-## 🛠️ Tech Stack
+## 🛠️ 技术栈
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
