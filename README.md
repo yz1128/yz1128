@@ -48,8 +48,8 @@
 ## 📊 GitHub Statistics
 
 <div align="center" style="background-color:#000000;padding:14px;border-radius:10px;">
-  <img height="165" src="https://raw.githubusercontent.com/yz1128/yz1128/output/stats.svg" alt="Yanz GitHub Stats" />
-  <img height="165" src="https://raw.githubusercontent.com/yz1128/yz1128/output/top-langs.svg" alt="Top Languages" />
+  ![Yanz's GitHub stats](https://github-readme-stats.vercel.app/api?username=yz1128)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yz1128)
 </div>
 
 ## 🐍 GitHub Contribution
