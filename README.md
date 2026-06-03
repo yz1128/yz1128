@@ -13,13 +13,6 @@
   💪 Actions Speak Louder Than Words
 </h2>
 
-<p align="center">
-  <strong>Python · Java · AI Coding Tools</strong><br>
-  <strong>Currently Exploring: OpenClaw, Hermes, Claude Code, Codex</strong>
-</p>
-
----
-
 ## 👋 About Me
 
 - 🎯 Focused on full-stack development
