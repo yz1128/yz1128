@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=yz1128&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile Views" />
 </p>
 <p align="center">
-  <a href="./README.md">English</a> | <a href="./README.zh-CN.md">简体中文</a>
+  <a>English</a> | <a href="./README.zh-CN.md">简体中文</a>
 </p>
 
 <h2 align="center">
