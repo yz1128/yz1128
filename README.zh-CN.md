@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yz1128&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=yz1128&label=Profile%20Views&color=3B82F6&style=flat" alt="Profile Views" />
 </p>
 <p align="center">
   <a href="./README.md">English</a> | <a>简体中文</a>
