@@ -6,24 +6,24 @@
   <img src="https://komarev.com/ghpvc/?username=yz1128&label=Profile%20Views&color=3B82F6&style=flat" alt="Profile Views" />
 </p>
 <p align="center">
-  <a href="./README.md">English</a> | <a>简体中文</a>
+  <a>English</a> | <a href="./README.md">简体中文</a>
 </p>
 
 <h2 align="center">
-  💪 行动胜于雄辩
+  💪 Actions Speak Louder Than Words
 </h2>
 
-## 👋 关于我
+## 👋 About Me
 
-- 🎯 专注于全栈开发
-- 🐍 Python 开发者
-- ☕ Java 技术栈
-- 🤖 正在探索 AI 编程工具与代码生成工作流
-- 🚀 强调执行力，通过实践持续成长
+- 🎯 Focused on full-stack development
+- 🐍 Python developer
+- ☕ Java technology stack
+- 🤖 Exploring AI coding tools and code generation workflows
+- 🚀 Action-driven mindset with a strong bias for learning by building
 
-## 🛠️ 技术栈
-
+## 🛠️ Tech Stack
 **Backend:**  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 **Frontend:**  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
@@ -31,28 +31,30 @@
 
 **Tools & Others:**  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-## 🔧 当前探索
+## 🔧 Currently Exploring
 
-- **OpenClaw** - 开放代码生成工具
-- **Hermes** - 智能编程助手
-- **Claude Code** - AI 辅助编程工作流
-- **Codex** - 代码生成模型
+- **OpenClaw** - Open code generation toolkit
+- **Hermes** - Intelligent programming assistant
+- **Claude Code** - AI-assisted coding workflow
+- **Codex** - Code generation model
 
-## 📈 未来展望
+## 📈 Looking Forward
 
-- 🔍 深入研究 AI 代码生成技术
-- 🛠️ 打造实用的开发工具
-- 📚 分享技术知识与实践经验
-- 🤝 与社区共建有价值的项目
+- 🔍 Dive deeper into AI code generation technologies
+- 🛠️ Build practical tools for developers
+- 📚 Share technical knowledge and experience
+- 🤝 Collaborate with the community on impactful projects
 
-## 📊 GitHub 统计
+## 📊 GitHub Statistics
 
 <p align="center">
   <img height="165" src="https://raw.githubusercontent.com/yz1128/yz1128/output/stats.svg" alt="Yanz GitHub Stats" />
   <img height="165" src="https://raw.githubusercontent.com/yz1128/yz1128/output/top-langs.svg" alt="Top Languages" />
 </p>
 
-## 🐍 GitHub 贡献
+
+
+## 🐍 GitHub Contribution
 
 <p align="center">
   <picture>
@@ -63,6 +65,6 @@
 </p>
 
 <p align="center">
-  <i>最后更新：2026-06-03</i><br>
-  <i>感谢访问！</i>
+  <i>Last updated: 2026-06-03</i><br>
+  <i>Thanks for visiting!</i>
 </p>
