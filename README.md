@@ -6,24 +6,24 @@
   <img src="https://komarev.com/ghpvc/?username=yz1128&label=Profile%20Views&color=3B82F6&style=flat" alt="Profile Views" />
 </p>
 <p align="center">
-  <a>English</a> | <a href="./README.zh-CN.md">简体中文</a>
+  <a href="./README.md">English</a> | <a>简体中文</a>
 </p>
 
 <h2 align="center">
-  💪 Actions Speak Louder Than Words
+  💪 行动胜于雄辩
 </h2>
 
-## 👋 About Me
+## 👋 关于我
 
-- 🎯 Focused on full-stack development
-- 🐍 Python developer
-- ☕ Java technology stack
-- 🤖 Exploring AI coding tools and code generation workflows
-- 🚀 Action-driven mindset with a strong bias for learning by building
+- 🎯 专注于全栈开发
+- 🐍 Python 开发者
+- ☕ Java 技术栈
+- 🤖 正在探索 AI 编程工具与代码生成工作流
+- 🚀 强调执行力，通过实践持续成长
 
-## 🛠️ Tech Stack
+## 🛠️ 技术栈
+
 **Backend:**  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
 
 **Frontend:**  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
@@ -31,30 +31,28 @@
 
 **Tools & Others:**  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-## 🔧 Currently Exploring
+## 🔧 当前探索
 
-- **OpenClaw** - Open code generation toolkit
-- **Hermes** - Intelligent programming assistant
-- **Claude Code** - AI-assisted coding workflow
-- **Codex** - Code generation model
+- **OpenClaw** - 开放代码生成工具
+- **Hermes** - 智能编程助手
+- **Claude Code** - AI 辅助编程工作流
+- **Codex** - 代码生成模型
 
-## 📈 Looking Forward
+## 📈 未来展望
 
-- 🔍 Dive deeper into AI code generation technologies
-- 🛠️ Build practical tools for developers
-- 📚 Share technical knowledge and experience
-- 🤝 Collaborate with the community on impactful projects
+- 🔍 深入研究 AI 代码生成技术
+- 🛠️ 打造实用的开发工具
+- 📚 分享技术知识与实践经验
+- 🤝 与社区共建有价值的项目
 
-## 📊 GitHub Statistics
+## 📊 GitHub 统计
 
 <p align="center">
   <img height="165" src="https://raw.githubusercontent.com/yz1128/yz1128/output/stats.svg" alt="Yanz GitHub Stats" />
   <img height="165" src="https://raw.githubusercontent.com/yz1128/yz1128/output/top-langs.svg" alt="Top Languages" />
 </p>
 
-
-
-## 🐍 GitHub Contribution
+## 🐍 GitHub 贡献
 
 <p align="center">
   <picture>
@@ -65,6 +63,6 @@
 </p>
 
 <p align="center">
-  <i>Last updated: 2026-06-03</i><br>
-  <i>Thanks for visiting!</i>
+  <i>最后更新：2026-06-03</i><br>
+  <i>感谢访问！</i>
 </p>
